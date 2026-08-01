@@ -1,0 +1,6 @@
+first = float(input("Number 1: "))
+second = float(input("Number 2: "))
+print(f"Addition: {first} + {second} = {first + second}") 
+print(f"Subtraction: {first} - {second} = {first - second}")
+print(f"Multiplication: {first} * {second} = {first * second}")
+print(f"Division: {first} / {second} = {first / second}")
